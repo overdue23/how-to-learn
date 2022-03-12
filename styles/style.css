@@ -376,8 +376,6 @@
 	list-style: none;
 	padding: 0;
 	margin: 20px 0 18px 0;
-	
-	
 }
 
 .footer__column-link{
@@ -385,7 +383,7 @@
 	color: white;
 }
 
-.footer__list-item{
+.footer__link-item{
 	line-height: 30px;
 	font-size: 18px;
 	font-weight: normal;
