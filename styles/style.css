@@ -123,14 +123,6 @@
 
 /* ---------------------------------Блок digits-------------------------------------------- */
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-	width: 200px;
-	color: white;
-	margin-right: 0;
-	margin-top: 80px;
- }
-
  .section-title{
 	width: 60%;
 	margin-top: 100px;
@@ -238,3 +230,82 @@
 }
 
 /* ---------------------------------Блок kaufman-------------------------------------------- */
+
+/* и элемента с модификатором вида ключ-значение 
+.table__cell_theme_dark {
+	width: 200px;
+	color: white;
+	margin-right: 0;
+	margin-top: 80px;
+ }   ------------------------------------*/
+
+
+.kaufman{
+	background-color: #000000;
+}
+
+ .section-title__theme_dark{
+	width: 60%;
+	margin-top: 90px;
+	margin-bottom: 0;
+	text-align: center;
+	line-height: 1.15;
+	font-size: 60px;
+	font-weight: bold;
+	color: white;
+	border: solid 2px blue;
+ }
+
+ .section-subtitle__theme_dark{
+	width: 60%;
+	margin-top: 20px;
+	margin-bottom: 0;
+	text-align: center;
+	line-height: 34px;
+	font-size: 24px;
+	font-weight: normal;
+	color: white;
+	border: solid 2px blue;
+ }
+
+ .table__theme_dark{
+	display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+	margin-bottom: 90px;
+	z-index: 1;
+	
+	padding-bottom: 0;
+	border: solid 2px blue;
+ }
+
+ .table__cell_theme_dark{
+	width: 200px;
+	color: white;
+	margin-right: 0;
+	margin-top: 80px;
+	border: solid 2px blue;
+ }
+
+ .table__heading_theme_dark{
+	margin: 0 auto 20px auto;
+	line-height: 1.15;
+	font-size: 24px;
+	font-weight: bold;
+ }
+
+ .table__text_theme_dark{
+	line-height: 1.2;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.kaufman__triangle{
+	width: 877px;
+	height: 877px;
+	position: absolute;
+	right: -210px;
+	overflow: hidden; 
+	border: solid 2px blue;
+
+}
