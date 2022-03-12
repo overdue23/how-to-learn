@@ -87,7 +87,6 @@
 	flex-direction: row;
 	justify-content: space-between;
 	margin: 100px auto 100px auto;
-
 }
 
 .two-columns__brief{
@@ -134,7 +133,6 @@
 	line-height: 1.15;
 	font-size: 60px;
 	font-weight: bold;
-
  }
 
  .section-subtitle{
@@ -145,7 +143,6 @@
 	line-height: 34px;
 	font-size: 24px;
 	font-weight: normal;
-
  }
 
  .table{
@@ -155,13 +152,11 @@
 	margin-bottom: 100px;
 	
 	padding-bottom: 0;
-	
  }
 
  .table__cell{
 	width: 250px;
 	margin-top: 60px;
-
  }
 
  .table__heading{
@@ -197,7 +192,6 @@
 	min-height: 890px;
 	background-color: #f2f2f2;
 	position: relative;
-	
 }
 
 .feynman__title{
@@ -207,7 +201,6 @@
 	text-align: center;
 	width: 648px;
 	padding-top: 100px;
-	
 }
 
 .feynman__subtitle{
@@ -217,8 +210,6 @@
 	text-align: center;
 	width: 400px;
 	margin-top: 70px;
-	
-
 }
 
 .feynman__link{
@@ -229,8 +220,6 @@
 	position: absolute;
 	right: 48px;
 	top: 50%;
-	
-
 }
 
 /* ---------------------------------Блок kaufman-------------------------------------------- */
@@ -308,7 +297,6 @@
 	display: flex;
 	background-color: #1f1f1f;
 	color: white;
-	
 }
 
 .footer__columns{
@@ -317,8 +305,6 @@
 	flex-direction: row;
 	justify-content: space-between;
 	margin: 60px auto 40px;
-	
-	
 }
 
 .footer__column_content_copyright{
@@ -328,7 +314,6 @@
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: flex-start;
-	
 }
 
 .logo_place_footer{
@@ -341,7 +326,6 @@
 	justify-content: flex-start;
 	list-style: none;
 	margin: 0;
-	
 }
 
 .footer__column_social{
@@ -349,8 +333,7 @@
 	flex-direction: column;
 	justify-content: flex-start;
 	list-style: none;
-	margin: 0;
-	
+	margin: 0;	
 }
 
 .footer__author{
@@ -366,7 +349,6 @@
 	font-size: 18px;
 	font-weight: bold;
 	margin: 0;
-	
 }
 
 .footer__column-links{
