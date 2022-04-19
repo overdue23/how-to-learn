@@ -19,3 +19,6 @@
 - Фйловая структура Nested БЭМ;
 - Работа с медиафайлами (HTML-video, iframe);
 - Вёрстка по макету в Figma.
+## Ссылка на сайт: 
+  https://overdue23.github.io/how-to-learn/index.html
+ 
